@@ -203,7 +203,7 @@ function preload() {
   TombStone2_img = loadImage("/bg_Images/Objects/TombStone (2).png")
   Tree_img = loadImage("/bg_Images/Objects/Tree.png")
   Skeleton_img = loadImage("/bg_Images/Objects/Skeleton.png")
-  deadBush_Img = loadImage(/"bg_Images/Objects/DeadBush.png")
+  deadBush_Img = loadImage("/bg_Images/Objects/DeadBush.png")
   bush1_img = loadImage("/bg_Images/Objects/Bush (1).png")
   bush2_img = loadImage("/bg_Images/Objects/Bush (2).png")
   arrow_Img = loadImage("/bg_Images/Objects/ArrowSign.png")
